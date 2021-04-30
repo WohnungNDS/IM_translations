@@ -17,7 +17,7 @@ repo: "https://github.com/wohnungnds/IM_translations"
 # Build settings
 markdown: kramdown
 source: www
-theme: uswds-jekyll
+theme: jekyll-theme-cayman
 
 # Python scripts build these files, so tell Jekyll not to process them
 keep_files:
